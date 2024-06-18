@@ -1,13 +1,12 @@
-#支持指定架构
---platform=linux/amd64 adguard/adguardhome
---platform=linux/amd64 allanpk716/chinesesubfinder
---platform=linux/amd64 deluan/navidrome
---platform=linux/amd64 enticeu/nas-tools
---platform=linux/amd64 ghcr.io/ajnart/homarr
---platform=linux/amd64 hectorqin/reader
---platform=linux/amd64 linuxserver/jackett
---platform=linux/amd64 mauricenino/dashdot
---platform=linux/amd64 onlyoffice/documentserver
---platform=linux/amd64 wukongdaily/box
---platform=linux/amd64 xgheaven/homebox
---platform=linux/amd64 xinjiawei1/emby_unlockd
+adguard/adguardhome
+allanpk716/chinesesubfinder
+deluan/navidrome
+enticeu/nas-tools
+ghcr.io/ajnart/homarr
+hectorqin/reader
+linuxserver/jackett
+mauricenino/dashdot
+onlyoffice/documentserver
+wukongdaily/box
+xgheaven/homebox
+xinjiawei1/emby_unlockd
