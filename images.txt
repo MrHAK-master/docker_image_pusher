@@ -1,6 +1,13 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/amd64 adguard/adguardhome
+--platform=linux/amd64 allanpk716/chinesesubfinder
+--platform=linux/amd64 deluan/navidrome
+--platform=linux/amd64 enticeu/nas-tools
+--platform=linux/amd64 ghcr.io/ajnart/homarr
+--platform=linux/amd64 hectorqin/reader
+--platform=linux/amd64 linuxserver/jackett
+--platform=linux/amd64 mauricenino/dashdot
+--platform=linux/amd64 onlyoffice/documentserver
+--platform=linux/amd64 wukongdaily/box
+--platform=linux/amd64 xgheaven/homebox
+--platform=linux/amd64 xinjiawei1/emby_unlockd
