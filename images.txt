@@ -10,3 +10,5 @@ onlyoffice/documentserver
 wukongdaily/box
 xgheaven/homebox
 xinjiawei1/emby_unlockd
+neosmemo/memos
+soulteary/flare
