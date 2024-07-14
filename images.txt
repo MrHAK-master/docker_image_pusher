@@ -12,5 +12,5 @@ xgheaven/homebox
 xinjiawei1/emby_unlockd
 neosmemo/memos
 soulteary/flare
---platform=linux/arm64 hectorqin/reader
---platform=linux/arm64 ghcr.io/ajnart/homarr
+--platform=linux/aarch64 hectorqin/reader
+--platform=linux/aarch64 ghcr.io/ajnart/homarr
