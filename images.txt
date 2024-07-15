@@ -14,4 +14,3 @@ neosmemo/memos
 soulteary/flare
 --platform=linux/aarch64 hectorqin/reader
 --platform=linux/aarch64 ghcr.io/ajnart/homarr
---platform=linux/aarch64 xinjiawei1/emby_unlockd
