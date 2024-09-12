@@ -13,7 +13,8 @@ xinjiawei1/emby_unlockd
 neosmemo/memos
 soulteary/flare
 nextcloud
---platform=linux/aarch64 hectorqin/reader
 --platform=linux/aarch64 ghcr.io/ajnart/homarr
 --platform=linux/aarch64 thenxuanzhu/reader3
-hectorqin/reader:openj9-latest
+--platform=linux/aarch64 emby/embyserver
+--platform=linux/aarch64 liwei2633/gopeed
+--platform=linux/aarch64 1Panel-dev/1Panel
