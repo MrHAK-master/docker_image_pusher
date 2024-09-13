@@ -17,4 +17,3 @@ nextcloud
 --platform=linux/aarch64 thenxuanzhu/reader3
 --platform=linux/aarch64 emby/embyserver
 --platform=linux/aarch64 liwei2633/gopeed
---platform=linux/aarch64 1Panel-dev/1Panel
